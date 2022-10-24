@@ -1,0 +1,40 @@
+.product-list {
+    width: 940px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.product-list li {
+    display: inline-block;
+    text-align: center;
+    margin: 0 1.5%;
+    width: 30%;
+    vertical-align: top;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.product-list li:hover {
+    border-color: #C78C19;
+}
+
+.product-list li:hover h2 {
+    font-size: 35px;
+}
+
+.product-list h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.descricao {
+    font-size: 18px;
+}
+
+.preco {
+    margin: 10px;
+    font-weight: bold;
+    font-size: 22px;
+}

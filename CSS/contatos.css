@@ -1,0 +1,21 @@
+label, form legend {
+    display: block;
+    margin: 0 0 10px;
+    font-size: 20px;
+}
+
+form {
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.table-container {
+    width: 940px;
+    margin: 0 auto;
+}
+
+textarea {
+    margin-bottom: 30px;
+}
+
